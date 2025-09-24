@@ -1,0 +1,7 @@
+C:\Users\5m\Desktop\algorytm erastotenesa\algorytm erastotenesa\bin\Debug\algorytm erastotenesa.exe.config
+C:\Users\5m\Desktop\algorytm erastotenesa\algorytm erastotenesa\bin\Debug\algorytm erastotenesa.exe
+C:\Users\5m\Desktop\algorytm erastotenesa\algorytm erastotenesa\bin\Debug\algorytm erastotenesa.pdb
+C:\Users\5m\Desktop\algorytm erastotenesa\algorytm erastotenesa\obj\Debug\algorytm erastotenesa.csproj.AssemblyReference.cache
+C:\Users\5m\Desktop\algorytm erastotenesa\algorytm erastotenesa\obj\Debug\algorytm erastotenesa.csproj.CoreCompileInputs.cache
+C:\Users\5m\Desktop\algorytm erastotenesa\algorytm erastotenesa\obj\Debug\algorytm erastotenesa.exe
+C:\Users\5m\Desktop\algorytm erastotenesa\algorytm erastotenesa\obj\Debug\algorytm erastotenesa.pdb
